@@ -1,6 +1,7 @@
 Similar ERP  builds
+1. https://github.com/frappe/erpnext
 1. https://github.com/donspablo/pro-gauzy-crm
-2. 
+  Demo - https://demo.gauzy.co/#/pages/dashboard/time-tracking
 
 Similar Websites
 1. Startup india - https://www.startupindia.gov.in/
